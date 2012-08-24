@@ -1,0 +1,13 @@
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bin\x86\Debug\resources.pri
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bin\x86\Debug\AppxManifest.xml
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\priconfig.xml.intermediate
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\layout.resfiles.intermediate
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\resources.resfiles.intermediate
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\pri.resfiles.intermediate
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\priconfig.xml
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\layout.resfiles
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\resources.resfiles
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\pri.resfiles
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\LanguageQualifiers.txt
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\App2\App2\bld\x86\Debug\ProjectArchitectures.txt
